@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Alt Text](https://github.com/aaln/aaln/blob/main/74694-confetti.gif?raw=true)
+![Alt Text](https://github.com/aaln/aaln/blob/main/109119-coding-slide.gif?raw=true)
 
